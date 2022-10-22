@@ -1,7 +1,7 @@
 {
   "name": "AllTube Download",
   "description": "HTML GUI for youtube-dl",
-  "repository": "https://github.com/Rudloff/alltube.git",
+  "repository": "https://github.com/bravetree/allvdl.git",
   "keywords": [
     "alltube",
     "download",
